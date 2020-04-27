@@ -9,7 +9,7 @@ metadata:
 spec:
   containers:
     - name: nginx
-      image: nginx
+      image: redis:latest
       
       
 ---
