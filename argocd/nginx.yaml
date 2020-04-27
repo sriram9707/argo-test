@@ -5,6 +5,7 @@ metadata:
   name: nginx
   labels:
     app: front-end
+    type: front-end
 spec:
   containers:
     - name: nginx
